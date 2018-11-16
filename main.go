@@ -2,7 +2,7 @@
 // Learn more by running `hoor` command in your command line.
 package main
 
-import "github.com/alireza-ahmadi/hoor/commands"
+import "github.com/rseyf/hoor/commands"
 
 func main() {
 	commands.Setup()
