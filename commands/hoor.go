@@ -18,7 +18,7 @@ import (
 	"github.com/gohugoio/hugo/source"
 	jww "github.com/spf13/jwalterweatherman"
 	"github.com/spf13/viper"
-	"github.com/yaa110/go-persian-calendar/ptime"
+	"github.com/yaa110/go-persian-calendar"
 )
 
 // HoorCmd represents the base command when called without any subcommands.
