@@ -2,7 +2,6 @@
 // is based on the Cobra package.
 package commands
 
-import ptime github.com/yaa110/go-persian-calendar
 import (
 	"os"
 	"path/filepath"
@@ -19,6 +18,7 @@ import (
 	"github.com/gohugoio/hugo/source"
 	jww "github.com/spf13/jwalterweatherman"
 	"github.com/spf13/viper"
+	"github.com/yaa110/go-persian-calendar/ptime"
 )
 
 
